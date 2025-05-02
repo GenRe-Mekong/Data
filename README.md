@@ -27,5 +27,5 @@ QC passed samples only
 ## Data released with publications
 Visit [Publication-Resources](https://github.com/GenRe-Mekong/Publication-Resources) to see specific data released files accompanying GenRe-Mekong publications
 
-**[2025 Nature Communications](https://github.com/GenRe-Mekong/Publication-Resources/tree/e250da3f4337190329f9f694d2bd330fce1e58f7/2025%20paper)**:
+**[2025 Nature Communications](https://github.com/GenRe-Mekong/Publication-Resources/tree/main/2025%20paper)**:
 Genetic surveillance of _Plasmodium falciparum_ populations following treatment policy revisions in the Greater Mekong Subregion

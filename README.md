@@ -2,6 +2,11 @@
 GenRe-Mekong periodically release genotyped public access datasets.
 
 If you use the data, please reference the relevant papers and acknowledge the sample contributors in your publications. 
+## Table of Contents
+- [GenRe-Mekong data](#genre-mekong-plasmodium-falciparum-data)
+- [Community data](#pf-community-project)
+- [Publication data](#data-released-with-publications)
+
 
 ----
 ## Genetic Report Cards (GRC)
@@ -14,9 +19,9 @@ If you use the data, please reference the relevant papers and acknowledge the sa
 
 ### *Pf* Community Project 
 QC passed samples only
-| Release Date  | GRC version  | GRC File name                          | User guide |  Year | # samples | Cite |
-|:-------------:|:------------:|:---------------------------------------|:----------:| :----:| :------:| :------:|
-| 03-11-2023    | 1.4         | <a href="https://github.com/GenRe-Mekong/Data/blob/bf3d441a5683f61db2ae3c1718680456467e6499/Pf-Pf7-GRCv1.4-PublicRelease-20231103-QCPASS.xlsx" target="_blank"> Pf-Pf7-GRCv1.4-PublicRelease-20231103-QCPASS.xlsx</a>| <a href="https://github.com/GenRe-Mekong/Documents/blob/288ab6903dc69c0509df5fe7911e79dab30668dc/GRC-UserGuide/GRC_UserGuide-v1.4.pdf" target="_blank"> View </a> | 1984-2018 | 16203 | <a href="https://wellcomeopenresearch.org/articles/8-22" target="_blank"> Paper </a> | 
+| Release Date  | GRC version  | Project |GRC File name                          | User guide |  Year | # samples | Cite |
+|:-------------:|:------------:|:----:|:--------------------------------------|:----------:| :----:| :------:| :------:|
+| 03-11-2023    | 1.4         | Pf7 |<a href="https://github.com/GenRe-Mekong/Data/blob/bf3d441a5683f61db2ae3c1718680456467e6499/Pf-Pf7-GRCv1.4-PublicRelease-20231103-QCPASS.xlsx" target="_blank"> Pf-Pf7-GRCv1.4-PublicRelease-20231103-QCPASS.xlsx</a>| <a href="https://github.com/GenRe-Mekong/Documents/blob/288ab6903dc69c0509df5fe7911e79dab30668dc/GRC-UserGuide/GRC_UserGuide-v1.4.pdf" target="_blank"> View </a> | 1984-2018 | 16203 | <a href="https://wellcomeopenresearch.org/articles/8-22" target="_blank"> Paper </a> | 
 
 --------
 ## Data released with publications

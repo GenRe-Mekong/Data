@@ -10,6 +10,8 @@ If you use the data, please reference the relevant papers and acknowledge the sa
 
 ----
 ## Genetic Report Cards (GRC)
+Malaria genetic data are obtained from patient blood samples and summarized in Genetic Report Cards (GRCs)—datasets routinely delivered to National Malaria Control Programmes in Excel format. For each sample, we report genotypes at 101 single nucleotide polymorphisms (SNPs), selected to assess parasite diversity, identify drug resistance–associated haplotypes, determine resistance classification, and include relevant sample metadata.
+
 ### GenRe-Mekong *Plasmodium falciparum* data
 | Release Date  | GRC version  | GRC File name                          | User guide |  Year | # samples | Cite |
 |:-------------:|:------------:|:---------------------------------------|:----------:| :----:| :------:| :-----:|
